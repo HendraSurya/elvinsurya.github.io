@@ -1,10 +1,22 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
+  company: Matahari Departement Store Lippo Plaza
+  #link: Link to company (optional)
+  job_title: Kasir
   dates: Date Range (eg. November 2016 - present)
-  quote: >
-   Short description of the company (optional)
+  #quote: >
+   Matahari Departement Store
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    Magang sebagai Kasir
+    
+# Experience template
+- layout: left
+  company: UPN Veteran
+  #link: Link to company (optional)
+  job_title: Staff Administrasi
+  dates: Date Range (eg. November 2016 - present)
+  #quote: >
+   UPN Veteran
+  description: | # this will include new lines to allow paragraphs
+    Magang sebagai Staff Administrasi
+
