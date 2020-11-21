@@ -8,3 +8,25 @@
    Matahari Departement Store
   description: | # this will include new lines to allow paragraphs
     Magang sebagai Kasir
+    
+# Experience template
+- layout: left
+  company: Matahari Departement Store Lippo Plaza
+  link: Link to company (optional)
+  job_title: Kasir
+  dates: Date Range (eg. November 2016 - present)
+  quote: >
+   Matahari Departement Store
+  description: | # this will include new lines to allow paragraphs
+    Magang sebagai Kasir
+    
+# Experience template
+- layout: left
+  company: Matahari Departement Store Lippo Plaza
+  link: Link to company (optional)
+  job_title: Kasir
+  dates: Date Range (eg. November 2016 - present)
+  quote: >
+   Matahari Departement Store
+  description: | # this will include new lines to allow paragraphs
+    Magang sebagai Kasir
