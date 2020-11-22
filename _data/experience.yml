@@ -11,22 +11,22 @@
     
 # Experience template
 - layout: left
-  company: Matahari Departement Store Lippo Plaza
+  company: UPN Veteran
   link: Link to company (optional)
-  job_title: Kasir
+  job_title: Staff Administrasi
   dates: Date Range (eg. November 2016 - present)
   quote: >
-   Matahari Departement Store
+   UPN Veteran
   description: | # this will include new lines to allow paragraphs
-    Magang sebagai Kasir
+    Magang sebagai Staff Administrasi
     
 # Experience template
 - layout: left
-  company: Matahari Departement Store Lippo Plaza
+  company: Ramayana Departement Store
   link: Link to company (optional)
-  job_title: Kasir
+  job_title: Sales Promotion Girl (SPG)
   dates: Date Range (eg. November 2016 - present)
   quote: >
    Matahari Departement Store
   description: | # this will include new lines to allow paragraphs
-    Magang sebagai Kasir
+    Sebagai Sales Promotion Girl di brand apparel LARUSSO
