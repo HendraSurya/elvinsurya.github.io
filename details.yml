@@ -1,12 +1,11 @@
 ---
 # Personal details
-name: Ραφαηλια Ασημακοπουλου
-position: Φοιτητρια
+name: Elvin Nur Fristikasari Suryana
+position: Sales Promotion Girl (SPG)
 address:
-- Πανεπιστήμιο Πατρας
-- Ελλάδα
+- Gamelan Sendangtirto Berbah Sleman
 phone: '+30 694 038 8965'
-email: 'simple@example.com'
+email: 'elvin.rb17@gmail.com'
 # Insert URLs without http://
 homepage: 'github.com/moya10'
 github: moya10
@@ -18,8 +17,10 @@ telegram:
 intro:
 
 skills:
-- Τεχνολογίες λογισμικού
-- Προγραμματισμός πολυμέσων
+- Sales
+- Microsoft Office
+- Administrasi
+- Kasir
 
 
 experience:
