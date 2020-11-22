@@ -1,7 +1,7 @@
 # Education Template
 - layout: left
   name: SD Negeri Klodangan
-  dates: Date Range (1997-2003)
+  dates: Date Range (2005-2011)
  # qualification: Qualifications (eg. BA Performing Arts)
  # quote: >
  #   Short institution or course description (optional)
@@ -11,7 +11,7 @@
 # Education Template
 - layout: left
   name: MTSn Piyungan
-  dates: Date Range (2003-2006)
+  dates: Date Range (2011-2014)
  # qualification: Qualifications (eg. BA Performing Arts)
  # quote: >
  #   Short institution or course description (optional)
@@ -21,7 +21,7 @@
 # Education Template
 - layout: left
   name: SMK Yapemda Yogyakarta
-  dates: Date Range (2006-2009)
+  dates: Date Range (2014-2017)
  # qualification: Qualifications (eg. BA Performing Arts)
  # quote: >
  #   Short institution or course description (optional)
